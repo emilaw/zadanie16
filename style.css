@@ -1,0 +1,19 @@
+
+
+h1{
+    color: white; 
+    background-color: darkgrey;
+    width: 250px;
+    height: 520px;
+    font-variant-position: sub;
+ }
+
+
+div{
+    background-color: orange;
+    width: 100px;
+    height: 100px;
+    margin-left: 25px;
+    margin-top: 10px;
+    position: relative; top: 10px;
+}
